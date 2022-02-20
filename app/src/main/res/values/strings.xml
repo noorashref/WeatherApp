@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherMVVM</string>
+    <string name="error_message">error</string>
+</resources>
