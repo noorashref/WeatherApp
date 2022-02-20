@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
             binding.imgSearchCity.setOnClickListener {
                 val cityName = binding.edtCityName.text.toString()
                 viewModel.refreshData(cityName)
-                getLiveStatus()
+                //getLiveStatus()
             }
 
 
